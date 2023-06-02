@@ -3,7 +3,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Parameter_jenkin {
+public class Parameter_jenkin_Test {
 
 	@Test()
 	
