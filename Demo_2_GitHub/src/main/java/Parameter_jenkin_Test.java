@@ -12,6 +12,7 @@ public class Parameter_jenkin_Test {
 		System.out.println(Browser);
 		System.out.println(Url);
 
+		
 //		WebDriver driver;
 //		if (Browser.contains("chrome")) {
 //			driver = new ChromeDriver();
